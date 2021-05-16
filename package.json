@@ -1,0 +1,22 @@
+{
+  "name": "docker-nodejs-app-deploy",
+  "version": "1.0.0",
+  "description": "Dockerize a Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infotechseo/docker-nodejs-app-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infotechseo/docker-nodejs-app-deploy/issues"
+  },
+  "homepage": "https://github.com/infotechseo/docker-nodejs-app-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
